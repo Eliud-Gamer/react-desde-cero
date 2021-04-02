@@ -9,9 +9,9 @@ const Banner = () => (
     <div className="lg-cols-4 lg-x-2">
     <img className="main-banner__img" src="tu-imagen.jpg" alt="tu imagen" />
     <div className="main-banner__data s-center">
-        <p className="t2 s-mb-0">Título del banner</p>
-        <p> Subtítulo del banner</p>
-        <a href="https://ed.team" className="button">Botón del banner</a>
+        <p className="t2 s-mb-0">Primer proyecto de react.js</p>
+        <p> Gracias a EDteam y el profesor Beto Quiroga </p>
+        <a href="https://ed.team/cursos/react" className="button">Curso de React.js de EDteam</a>
     </div>
     </div>
 </div>
